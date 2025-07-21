@@ -3,10 +3,6 @@
       {
         "src": "/privacy-policy",
         "dest": "/privacy-policy.html"
-      },
-      {
-        "src": "/",
-        "dest": "/privacy-policy.html"
       }
     ]
   }
