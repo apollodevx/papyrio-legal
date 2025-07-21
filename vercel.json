@@ -3,6 +3,10 @@
       {
         "src": "/privacy-policy",
         "dest": "/privacy-policy.html"
+      },
+      {
+        "src": "/delete-account",
+        "dest": "/delete-account.html"
       }
     ]
   }
